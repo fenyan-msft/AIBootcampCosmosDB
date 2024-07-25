@@ -1,1 +1,1 @@
-# AIBootcampCosmosDBLab2
+# AIBootcampCosmosDBLab
