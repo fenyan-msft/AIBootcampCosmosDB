@@ -1,0 +1,11 @@
+numpy
+openai
+python-dotenv
+azure-core
+azure-cosmos
+aiohttp
+gradio
+ijson
+nest_asyncio
+tenacity
+ipywidgets
